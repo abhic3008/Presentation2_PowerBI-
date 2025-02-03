@@ -1,6 +1,6 @@
-1) Developed an interactive dashboard store data from a raw database, to provide real-time insights.
+1) Created an interactive dashboard to visualize sales data across various regions, product lines, and time periods from a raw database.
 
-2) Streamlined data processing using DAX measures to create implicit measures to monitor key performance metrics and trends.
+2) Leveraged DAX (Data Analysis Expressions) measures to calculate key metrics to provide dynamic and real-time insights.
 
 3) Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes
   
